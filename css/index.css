@@ -6,3 +6,8 @@
 .miniIcon {
     height: 15px;
 }
+
+.midIcon {
+    height: 25px;
+    vertical-align: center;
+}
