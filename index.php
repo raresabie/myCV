@@ -1,1 +1,1 @@
-<?php include_once("static_cv.html"); ?>
+#<?php include_once("static_cv.html"); ?>
