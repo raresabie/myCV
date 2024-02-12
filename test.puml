@@ -1,0 +1,143 @@
+@startmindmap
+'https://plantuml.com/mindmap-diagram
+
+caption Rares
+title Colloquio
+
+
+* tecnical side
+** mobile
+
+***[#lightgreen] android
+    ****_ jetpack compose
+    *****_ performance checks
+    *****_ state management
+    *****_ LocalCompositionOf, custom AppTheme
+    *****_ pagers
+    ******_ infinite listing performance management
+    *****_  UI Kit
+    ****_ modularization
+    *****_  UI
+    *****_  BE service
+    ****_ gradle
+    *****_  gestione più ambienti
+    ****_ storage
+    *****_  room
+    *****_  data store
+    *****_  share pref, encripted
+    ****_ hilt
+    ****_ ktor, Apis
+    *****_  more than 10 BE services
+    ****_ MVVMI
+    *****_  flows
+    *****_  use cases
+    *****_  managers
+    *****_  repositories
+    *****_  ViewModels
+    *****_  Mappers
+    ****_ pulizia del codice
+    ****_ google wallet
+    ****_ checkout
+    *****_  paypal no API
+    *****_  credit card
+    *****_  klarna
+    *****_  satispay
+    *****_  P24
+    ****_ validazione dati utente
+    ****_ integrazione e analisi analytics
+    ****_ training di risorse junior in inglese
+    ****_ PWA
+    *****_  ricezione dati
+    *****_  invio dati pwa con eventi
+    *****_  set dei cookie
+    ****_ qualità ELEVATA dell'applicativo
+    *****_  great FOCALIZATION on code QUALITY and CLEARANCE, mine and of my team
+    *****_  Deep test functionalities before exposing to client in UATs or SITs
+    ****_ 99,98% crash free users
+    ****_ custom logs on crashlytics
+    *****_  per analisi CRASH API
+    *****_  per analisi mancanza di dati API
+
+***_ play console
+    ****_ pubblicazione e gestione console
+
+***_ ios
+    ****_ conoscenza base di piccoli applicativi
+
+***_ flutter
+    ****_ flutter web
+    ****_ creazione di un app per turismo
+    *****_  DB
+    *****_  BE
+    *****_  Gestionale
+    *****_  APP ios e android
+
+**_ firebase
+    ***_ typescript
+    ***_ api management
+    ***_ new features like In-App notifications
+**_ google analytics
+    ***_ analisi dei bug
+    ***_ implementazione, ideazione nuove analitiche
+**_ git
+    ***_ pull requests
+    ***_ pull requests
+**_ Games
+    ***_ Phaser 3
+    ***_ Typescript
+    ***_ Comunicazione app - webview
+
+
+* consulenza 
+    **_ agile
+    ***_ sprint planning
+    ***_ work monitoring
+    **_ cliente
+    ***_ UATs
+    ***_ SALs
+    ***_ communication, explanations
+    ***_ solutions, production work arounds etc
+    **_ stacke holders
+    ***_ realizzazione e integrazione nuovi servizi
+    ****_ analisi requisiti
+    ****_ definizione dei requisiti
+    **_ team management
+    **_ AMS management
+    ***_ problem solving
+    ***_ analysis
+
+* chi sono
+**_ history
+    ***_ born in Romania, moved in italy at 3 years old
+    ***_ passionate about computers till young
+    ***_ started programing at 11 years old in school
+    ***_ ITIS of computer science in high school
+    ***_ Computer science in university
+    ****_ discovered Android Java
+    ***_ stage in Deloitte on Tezenis
+    **** creating an e-commerce app from scratch with only 1 university project experience\n with 1 colleague in the same situation. After only 3 months we had another first-experience developer.\n No senior present on the project for Android support. It was a great challenge, but it is what I was needing. \n I prefered that way then the one having someone that exposes for my errors on client side and with stakeholders
+    ***_ android with XML layouts
+    ***_ continuing my carrear at Deloitte, publishing the app, integrating new services
+    ***_ restilying of the app
+    ****_ team training
+    ****_ planning of all the developments needed
+    ****_ choosed jetpack compose
+    ****_ complete re-writing from 0 with better architecture and code
+    ***_ flutter for personal projects
+    ***_ new features, refactoring, modularization, team management
+    ***_ new Calzedonia APP
+
+**_ me
+    ***_ bike passionate, started running
+    ***_ I like mountains, nature, travelling, places that leave you without breathing
+    ***_ I am passionate about technology
+
+
+
+header
+My super header
+endheader
+
+center footer My super footer
+
+@endmindmap
