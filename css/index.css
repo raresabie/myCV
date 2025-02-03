@@ -18,6 +18,9 @@
     vertical-align: center;
 }
 
+@page {
+    margin: 10mm;
+}
 
 #myCanvas { background-color: rgba(158, 167, 184, 0.2); }
 
